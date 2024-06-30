@@ -1,5 +1,5 @@
 # using_behave
-Here are 10 key points elaborating on the BDD framework developed using Selenium, Python, and Allure reports:
+Summary of the framework :
 
 1. **Feature Files Creation**: Created separate feature files for each website functionality (e.g., login, registration, product availability) using the Given When Then format to outline test scenarios in a clear, human-readable format.
 
